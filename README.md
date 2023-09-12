@@ -42,6 +42,17 @@ CO_Example & GP_Example are both pulled from the CLi-100 Show Machine.  </br></b
    If the user has a GitHub account, type their username.  </br>
    Otherwise type in the email of the person you wish to add.  </br></br>
 
+8. **Disable Actions**
+   Click on the "Actions" dropdown on the leftside then "General".
+   Click "Disable actions" under "Actions permissions".
+
+10. **Discussions Setup**
+   Under the "Discussions" tab click the pencil icon next to the "Categories" on the left side.
+   Delete "Polls", "Q&A", and "Show and tell".
+   On the main discussions page, click the "Label" button and "Edit labels".
+   Delete "good first issue".
+   Create "known issue" with description "The issue has been brought up or is known about" and color #71805B.
+
 
 # Large Files
 If the desktop app or web interface gives an error about large file sizes then the solution is to install Git LFS using GitHub CLI.  </br>
